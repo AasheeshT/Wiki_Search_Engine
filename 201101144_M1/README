@@ -1,0 +1,7 @@
+Roll#: 201101144
+
+1: Run all 3 files with root acess, (because of chown error when you run only 1st command with root and others with normal users , code will not run).
+2: I am assuuming there will not be '/' after path to folder in command line arguments.
+
+Error in Case:1 ::
+when u run sudo bash install.sh, all files created are having root as there owner, now since it was asked to compile in this step so all executables are having root as there owner , so if in next step i have to run these executables either i have to be root or i ave to do chown in first command, since normal user of your system is not known therefore i assumed my file will be run as root ( all 3 files).
