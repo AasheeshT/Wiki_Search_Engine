@@ -1,6 +1,8 @@
 Wiki_Search_Engine
 ==================
 
+Documentation at <a href="https://github.com/jayesh92/Wiki_Search_Engine/wiki">Link</a>
+
 Built a search engine over 40GB of Wikipedia data, which includes eﬃcient indexing of documents and retrieval of search queries <br/>
 
 201101144_M1 : Search engine to test over 300MB of wikipedia data.<br/>
